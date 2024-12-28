@@ -71,9 +71,3 @@ This project not only demonstrates my proficiency in **HTML**, **CSS**, and **Ja
 5. **Acknowledgments**: Credits to your company, mentors, and team.  
 6. **Contact Section**: Encourages collaboration or feedback.  
 
-### Next Steps  
-1. Replace the placeholder screenshot links with actual screenshots from your project.  
-2. Customize the contact information with your email, GitHub, and LinkedIn profile.  
-
-Let me know if you’d like further tweaks! 😊
-
